@@ -57,3 +57,11 @@ https://artia.com
 # Gerenciar andamento de projeto
 https://br.atlassian.com/software/jira
 https://docker.com
+
+# Certificação:
+IT Certs – DevOps Essentials: http://www.itcerts.com.br/devops/
+EXIM – DevOps PROFESSIONAL e DevOps MASTER:
+https://www.exin.com/en/certifications/exin-devops-professional-exam
+https://www.exin.com/br/pt/certifications/exin-devops-master-exam
+LPI – LPIC-OT-701: DevOps Tools Engineer:
+http://www.lpi.org/our-certifications/lpic-ot-devops-overview
