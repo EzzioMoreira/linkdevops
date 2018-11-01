@@ -58,7 +58,7 @@ https://artia.com
 https://br.atlassian.com/software/jira
 https://docker.com
 
-# Certificação:
+# Certificação Devops:
 IT Certs – DevOps Essentials: 
 http://www.itcerts.com.br/devops/
 
