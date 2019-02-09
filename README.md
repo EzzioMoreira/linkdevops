@@ -13,8 +13,9 @@ https://docs.microsoft.com/pt-br/virtualization/windowscontainers/quick-start/qu
 https://www.zaproxy.org
 
 # Modulos PowerShell
-https://www.powershellgallery.com
-https://gallery.technet.microsoft.com
+https://www.powershellgallery.com /
+https://gallery.technet.microsoft.com /
+http://power-shell.com/ /
 
 # GATILHO KOSMICO – Uma empresa de podcast, serviços, editora e produção de Magia
 http://gatilhokosmico.com.br/
