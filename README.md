@@ -14,6 +14,7 @@ https://www.zaproxy.org
 
 # Modulos PowerShell
 https://www.powershellgallery.com
+https://gallery.technet.microsoft.com
 
 # GATILHO KOSMICO – Uma empresa de podcast, serviços, editora e produção de Magia
 http://gatilhokosmico.com.br/
