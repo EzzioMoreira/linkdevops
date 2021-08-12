@@ -1,5 +1,11 @@
 # linkdevops
 Links sites devops
+# Infra as code:
+https://testinfra.readthedocs.io/en/latest/
+https://12factor.net/pt_br/codebase
+https://github.com/gruntwork-io/terratest
+
+
 # Tutorial andible pt br:
 http://ansible-br.org/primeiros-passos/guia-rapido/passo-7/ 
 
