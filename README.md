@@ -1,5 +1,6 @@
 # linkdevops
 Links sites devops
+
 # Infra as code:
 ```
 https://testinfra.readthedocs.io/en/latest/
@@ -9,6 +10,7 @@ https://github.com/gruntwork-io/terratest
 # Teste de código
 ```
 https://app.codeac.io/
+https://sonarcloud.io/
 ```
 
 # Tutorial andible pt br:
@@ -54,6 +56,7 @@ https://codeanywhere.com
 ```
 https://prometheus.io
 ```
+
 # Analise de dados
 ```
 https://www.elastic.co
@@ -69,7 +72,7 @@ https://www.graylog.org
 http://manageiq.org
 ```
 
-# Automatizar a implantação, dimensionamento, e gerenciamento de aplicações em contêineres.
+# Automatizar a implantação, dimensionamento e gerenciamento de aplicações em contêineres.
 ```
 https://kubernetes.io
 ```
