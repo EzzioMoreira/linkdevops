@@ -56,6 +56,7 @@ https://codeanywhere.com
 # Monitoramento e metricas.
 ```
 https://prometheus.io
+https://opentelemetry.io/
 ```
 
 # Analise de dados
